@@ -1,1 +1,1 @@
-# kong-docker-compose
+# kong-ce-docker-compose
